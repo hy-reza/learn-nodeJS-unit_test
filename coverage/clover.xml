@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1664113742058" clover="3.2.0">
-  <project timestamp="1664113742059" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="22" coveredelements="22" complexity="0" loc="12" ncloc="12" packages="1" files="3" classes="3"/>
+<coverage generated="1664123226794" clover="3.2.0">
+  <project timestamp="1664123226795" name="All files">
+    <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="3" methods="6" coveredmethods="6" elements="22" coveredelements="20" complexity="0" loc="12" ncloc="12" packages="1" files="3" classes="3"/>
     <file name="async.js" path="E:\My Study\Self Learning\learn-unit-test-nodeJS\src\async.js">
       <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
@@ -12,12 +12,12 @@
       <line num="7" count="2" type="stmt"/>
     </file>
     <file name="exceptions.js" path="E:\My Study\Self Learning\learn-unit-test-nodeJS\src\exceptions.js">
-      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <metrics statements="5" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
       <line num="3" count="3" type="stmt"/>
       <line num="7" count="1" type="stmt"/>
-      <line num="8" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="cond" truecount="1" falsecount="1"/>
       <line num="9" count="3" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
     </file>
     <file name="sum.js" path="E:\My Study\Self Learning\learn-unit-test-nodeJS\src\sum.js">
       <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>

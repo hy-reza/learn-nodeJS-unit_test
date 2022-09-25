@@ -9,6 +9,17 @@
   },
   "jest": {
     "collectCoverage": true,
+    "coverageThreshold": {
+      "global": {
+        "branches": 60,
+        "functions": 60,
+        "lines": 60,
+        "statements": 60
+      }
+    },
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}"
+    ],
     "verbose": true,
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
