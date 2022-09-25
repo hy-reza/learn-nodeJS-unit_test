@@ -6,6 +6,6 @@ export const sayHello = (name) => {
       }else{
         resolve(`Hello ${name}, nice to meet you !`)
       }
-    }, 3000)
+    }, 1000)
   })
 }
