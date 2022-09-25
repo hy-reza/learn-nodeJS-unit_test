@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "description": "belajar unit test ",
   "main": "./src/app.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
   },
   "repository": {
     "type": "git",
@@ -23,6 +29,7 @@
   },
   "homepage": "https://github.com/hy-reza/learn-unit-test-nodeJS#readme",
   "devDependencies": {
+    "babel-jest": "^29.0.3",
     "jest": "^29.0.3"
   }
 }
