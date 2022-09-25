@@ -1,7 +1,6 @@
 # UNIT TESTING WITH JEST JS
 
 learning source : yt/programmer zaman now/TUTORIAL NODEJS UNIT TEST (BAHASA INDONESIA)
-https://www.youtube.com/watch?v=U78DNeeWik4&list=PL-CtdCApEFH9540Fr7MvF9t-vG6pR9vjw&index= 6
 
 materi :
 
