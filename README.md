@@ -19,7 +19,7 @@ materi :
 - [x] 01:12:07 - Numbers Matchers
 - [x] 01:15:13 - Strings Matchers
 - [x] 01:17:48 - Arrays Matchers
-- [x] 01:21:57 - Exc ptions Matchers
+- [x] 01:21:57 - Exceptions Matchers
 - [x] 01:29:07 - Not Matchers
 - [x] 01:33:16 - Test Async Code
 - [x] 01:45:23 - Setup Function
