@@ -23,7 +23,8 @@
     "verbose": true,
     "transform": {
       "^.+\\.[t|j]sx?$": "babel-jest"
-    }
+    },
+    "maxConcurrency": 1
   },
   "repository": {
     "type": "git",
