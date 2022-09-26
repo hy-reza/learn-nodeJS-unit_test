@@ -29,14 +29,14 @@ materi :
 - [x] 02:22:48 - Skip Function
 - [x] 02:25:19 - Only Function
 - [x] 02:28:24 - Each Function
-- [] 02:41:10 - Concurrent Function
-- [] 02:47:14 - Todo Function
-- [] 02:50:04 - Failing Function
-- [] 02:54:35 - Mock
-- [] 02:58:29 - Mock Function
-- [] 03:17:27 - Mock Async Function
-- [] 03:25:49 - Mock Matchers
-- [] 03:29:28 - Mock Modules
-- [] 03:39:17 - Mock Partial Modules
-- [] 03:44:36 - Mock Class
-- [] 03:55:12 - Mock Partial Class
+- [ ] 02:41:10 - Concurrent Function
+- [ ] 02:47:14 - Todo Function
+- [ ] 02:50:04 - Failing Function
+- [ ] 02:54:35 - Mock
+- [ ] 02:58:29 - Mock Function
+- [ ] 03:17:27 - Mock Async Function
+- [ ] 03:25:49 - Mock Matchers
+- [ ] 03:29:28 - Mock Modules
+- [ ] 03:39:17 - Mock Partial Modules
+- [ ] 03:44:36 - Mock Class
+- [ ] 03:55:12 - Mock Partial Class
