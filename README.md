@@ -29,7 +29,7 @@ materi :
 - [x] 02:22:48 - Skip Function
 - [x] 02:25:19 - Only Function
 - [x] 02:28:24 - Each Function
-- [ ] 02:41:10 - Concurrent Function
+- [x] 02:41:10 - Concurrent Function
 - [ ] 02:47:14 - Todo Function
 - [ ] 02:50:04 - Failing Function
 - [ ] 02:54:35 - Mock
