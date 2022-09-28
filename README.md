@@ -38,5 +38,5 @@ materi :
 - [x] 03:25:49 - Mock Matchers
 - [x] 03:29:28 - Mock Modules
 - [x] 03:39:17 - Mock Partial Modules
-- [ ] 03:44:36 - Mock Class
-- [ ] 03:55:12 - Mock Partial Class
+- [x] 03:44:36 - Mock Class
+- [x] 03:55:12 - Mock Partial Class
