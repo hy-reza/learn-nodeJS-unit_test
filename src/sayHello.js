@@ -3,3 +3,8 @@ export const sayHello = (name) => {
 
   return `Hello ${name}`
 }
+
+
+export const sayHelloCallback = (name, callback) => {
+  return `Hello ${callback(name)}`
+}
